@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/nav_restaurant">
+
+    <fragment
+        android:id="@+id/nav_restaurant"
+        android:name="com.paidapp.laughtercafe.ui.restaurant.RestaurantFragment"
+        android:label="@string/menu_restaurant"
+        tools:layout="@layout/fragment_restaurant">
+        <action android:id="@+id/action_nav_restaurant_to_nav_home"
+            app:destination="@+id/nav_home"
+            ></action>
+    </fragment>
+
+    <fragment
+        android:id="@+id/nav_home"
+        android:name="com.paidapp.laughtercafe.ui.home.HomeFragment"
+        android:label="@string/menu_home"
+        tools:layout="@layout/fragment_home">
+        <argument
+            android:name="restaurant"
+            app:argType="string"
+            android:defaultValue="empty"
+            ></argument>
+
+    </fragment>
+
+    <fragment
+        android:id="@+id/nav_menu"
+        android:name="com.paidapp.laughtercafe.ui.menu.MenuFragment"
+        android:label="@string/menu_menu"
+        tools:layout="@layout/fragment_menu" />
+
+    <fragment
+        android:id="@+id/nav_food_detail"
+        android:name="com.paidapp.laughtercafe.ui.fooddetail.FoodDetailFragment"
+        android:label="@string/menu_food_detail"
+        tools:layout="@layout/fragment_food_detail" />
+
+    <fragment
+        android:id="@+id/nav_view_orders"
+        android:name="com.paidapp.laughtercafe.ui.view_orders.ViewOrdersFragment"
+        android:label="@string/menu_view_orders"
+        tools:layout="@layout/fragment_view_order" />
+
+    <fragment
+        android:id="@+id/nav_cart"
+        android:name="com.paidapp.laughtercafe.ui.cart.CartFragment"
+        android:label="@string/menu_cart"
+        tools:layout="@layout/fragment_cart" />
+
+    <fragment
+        android:id="@+id/nav_food_list"
+        android:name="com.paidapp.laughtercafe.ui.foodlist.FoodListFragment"
+        android:label="@string/menu_food_list"
+        tools:layout="@layout/fragment_food_list" />
+</navigation>

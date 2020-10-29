@@ -1,0 +1,154 @@
+{
+  "project_info": {
+    "project_number": "107569719582",
+    "firebase_url": "https://laughtercafe-9c89c.firebaseio.com",
+    "project_id": "laughtercafe-9c89c",
+    "storage_bucket": "laughtercafe-9c89c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:107569719582:android:142fc2183e095fc7ecc10f",
+        "android_client_info": {
+          "package_name": "com.example.laughtercafeshipper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "107569719582-tfhuiup332d21cqj0ovrs7fvlo928lmh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.laughtercafeshipper",
+            "certificate_hash": "b673b2c68672ad73e5db40615067a01cf6a1d507"
+          }
+        },
+        {
+          "client_id": "107569719582-vie3vne2dmrrju89j05qihig6rfpkts7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqgWBbzNableJA18jWHbRQxPtjqHyP9bs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "107569719582-vie3vne2dmrrju89j05qihig6rfpkts7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:107569719582:android:5aa62c5c0ae34b56ecc10f",
+        "android_client_info": {
+          "package_name": "com.paidapp.laughtercafe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "107569719582-pdmuov7b7jokmv6dcdj4vlaprfjensfk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.paidapp.laughtercafe",
+            "certificate_hash": "8783486a7ea1567ceafb7eb8f583880cba3a718d"
+          }
+        },
+        {
+          "client_id": "107569719582-tiftufs1u1k0fblj8hp955347b2j1ppt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.paidapp.laughtercafe",
+            "certificate_hash": "c7e6b48b65f68380002c7563104dff42ed725bdf"
+          }
+        },
+        {
+          "client_id": "107569719582-og9vc660e58rr8um7lgoebl25lr3d4vm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.paidapp.laughtercafe",
+            "certificate_hash": "b673b2c68672ad73e5db40615067a01cf6a1d507"
+          }
+        },
+        {
+          "client_id": "107569719582-vie3vne2dmrrju89j05qihig6rfpkts7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqgWBbzNableJA18jWHbRQxPtjqHyP9bs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "107569719582-vie3vne2dmrrju89j05qihig6rfpkts7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:107569719582:android:bd29c39f17bd87e4ecc10f",
+        "android_client_info": {
+          "package_name": "com.paidapp.laughterserver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "107569719582-gd3ftc5d9u77freq6hsloapb2oondblg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.paidapp.laughterserver",
+            "certificate_hash": "5fe45241453a018d7322fb78b39d2bd2901d973a"
+          }
+        },
+        {
+          "client_id": "107569719582-i1qtp5h4bnttaaen1tr4dbnr79nd4plv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.paidapp.laughterserver",
+            "certificate_hash": "cb42019b1baef5b1b14b5ddfa145cd9fcedce2a4"
+          }
+        },
+        {
+          "client_id": "107569719582-9ipm5nc7718do6erv0hnhsk25gdo6oqg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.paidapp.laughterserver",
+            "certificate_hash": "b673b2c68672ad73e5db40615067a01cf6a1d507"
+          }
+        },
+        {
+          "client_id": "107569719582-vie3vne2dmrrju89j05qihig6rfpkts7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqgWBbzNableJA18jWHbRQxPtjqHyP9bs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "107569719582-vie3vne2dmrrju89j05qihig6rfpkts7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
